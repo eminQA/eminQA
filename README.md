@@ -8,7 +8,7 @@
 
 ### 📫  Как связаться со мной:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
+[![LinkedIn Badge](https://img.shields.io/badge/-@eminmamedzade-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/emin-mamedzade-07969a140/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:eminqamamedzade@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-eminmamedzade-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eminmamedzade) [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/+994507550415) 
 
 ---
 
