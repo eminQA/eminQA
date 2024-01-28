@@ -8,7 +8,7 @@
 
 ### 📫  Как связаться со мной:
 
-[![Telegram Badge](https://img.shields.io/badge/-eminmamedzade-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eminmamedzade) [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/+994507550415) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:eminqamamedzade@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-@eminmamedzade-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/emin-mamedzade-07969a140/) [![Notion Badge](https://img.shields.io/badge/-notion-black?style=flat&logo=Notion&logoColor=white)](https://equinox-situation-8a6.notion.site/8245b7d191c0498ea3991e6938f9d704) 
+[![Telegram Badge](https://img.shields.io/badge/-eminmamedzade-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eminmamedzade) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/+994507550415) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:eminqamamedzade@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-@eminmamedzade-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/emin-mamedzade-07969a140/) [![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&logoColor=white)](https://equinox-situation-8a6.notion.site/8245b7d191c0498ea3991e6938f9d704) 
 
 ---
 
