@@ -45,8 +45,8 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://github.com/eminQA/eminQA/blob/main/assets/icons/PostgreSQL-Logo.wine.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
-  <img src="https://github.com/eminQA/eminQA/blob/main/assets/icons/f3f5c080-808b-11ea-9713-2bea65875d95.png" title="dbeaver" alt="dbeaver" width="60" height="40"/>&nbsp
+  <img src="https://github.com/eminQA/eminQA/blob/main/assets/icons/PostgreSQL-Logo.wine.svg" title="postgresql" alt="postgresql" width="50" height="50"/>&nbsp
+  <img src="https://github.com/eminQA/eminQA/blob/main/assets/icons/f3f5c080-808b-11ea-9713-2bea65875d95.png" title="dbeaver" alt="dbeaver" width="70" height="50"/>&nbsp
 <img src="https://github.com/eminQA/eminQA/blob/main/assets/icons/sql-database-generic-svgrepo-com.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp
 </div>
 
